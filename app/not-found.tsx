@@ -1,0 +1,1 @@
+﻿export default function NotFound(){return <main className="wrap narrow"><section><span className="eyebrow">404</span><h1>This little print wandered off.</h1><p>The page or product you’re looking for isn’t available.</p><a className="button" href="/shop">Explore the toys</a></section></main>;}

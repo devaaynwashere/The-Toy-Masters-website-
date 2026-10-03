@@ -1,0 +1,2 @@
+﻿'use client';
+export default function ErrorPage({reset}:{reset:()=>void}){return <main className="wrap narrow"><section><span className="eyebrow">A little pause in the print</span><h1>We couldn’t load this page.</h1><p>Please try again in a moment. Your saved products and uploads remain in storage.</p><button className="button" onClick={reset}>Try again</button><a className="button secondary" href="/">Back to home</a></section></main>;}

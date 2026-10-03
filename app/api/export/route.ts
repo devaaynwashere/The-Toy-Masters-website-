@@ -1,0 +1,3 @@
+import {authenticated,json} from '@/lib/security';
+import {catalogue,database} from '@/lib/store';
+export async function GET(req:Request){if(!await authenticated(req))return json({error:'Please sign in'},401);const data=await catalogue(true);const [enquiries,media]=await Promise.all([database().prepare('SELECT * FROM enquiries').all(),database().prepare('SELECT * FROM media').all()]);return new Response(JSON.stringify({version:1,exportedAt:new Date().toISOString(),...data,enquiries:enquiries.results,media:media.results},null,2),{headers:{'Content-Type':'application/json','Content-Disposition':'attachment; filename="toy-masters-backup.json"','Cache-Control':'no-store'}});}
