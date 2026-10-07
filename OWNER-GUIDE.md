@@ -22,7 +22,7 @@ To change it, update the hosting secret named **ADMIN_PASSWORD**, then republish
 4. Add a short description, product type, size, age guidance, material, colours and stock status. Write care and safety information for this specific product.
 5. Turn **Published** on and press **Save changes**. Wait for **Changes saved**.
 
-The product is now in the public catalogue. Turn Published off to hide it. **Archive** keeps the record while removing it from public view; you can restore it later. **Duplicate** makes an unpublished copy for a similar product.
+The product is now in the public catalogue. Turn Published off to hide it. **Delete listing** removes the product from the catalogue and the normal Admin list. It keeps an archived copy, its photos and existing enquiries. Enable **Show archived listings** and choose **Restore** to recover it as a hidden draft. **Duplicate** makes an unpublished copy for a similar product.
 
 ## Photos, cover images and video
 
