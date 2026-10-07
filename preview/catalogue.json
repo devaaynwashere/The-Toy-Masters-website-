@@ -1,0 +1,1419 @@
+{
+  "products": [
+    {
+      "id": "demo-0",
+      "slug": "mini-flexi-axolotl",
+      "name": "Mini Flexi Axolotl",
+      "categoryId": "cat-1",
+      "price": 12,
+      "shortDescription": "Flexible, colourful and full of personality.",
+      "description": "A demo entry for our small-batch Melbourne catalogue. Choose your favourite colour and send an enquiry to check the details. The maker will confirm the final price, dimensions, materials and suitability before your order.",
+      "subcategory": "Animals",
+      "tags": [
+        "Creature",
+        "Gift"
+      ],
+      "type": "Creature",
+      "size": "Mini",
+      "age": "Teens",
+      "material": "PLA",
+      "care": "Keep away from high temperatures, including very hot cars. Wipe gently with a damp cloth. Avoid rough handling and forcing moving joints.",
+      "safety": "Small parts and articulated joints. Not suitable for children under 3 years. Use gently; final age suitability must be confirmed.",
+      "makerNote": "Colours can vary between prints. We will confirm your colour choice and availability with you.",
+      "customisable": true,
+      "stock": "Made to Order",
+      "marketAvailable": true,
+      "featured": true,
+      "isNew": false,
+      "marketPick": true,
+      "published": true,
+      "archived": false,
+      "photos": [],
+      "colours": [
+        {
+          "name": "Purple",
+          "hex": "#a56aff",
+          "photo": ""
+        },
+        {
+          "name": "Cyan",
+          "hex": "#42d4eb",
+          "photo": ""
+        },
+        {
+          "name": "Lime",
+          "hex": "#cef96b",
+          "photo": ""
+        }
+      ],
+      "video": "",
+      "occasions": [
+        "Gift"
+      ],
+      "related": [],
+      "createdAt": "2026-10-03T07:05:05.316Z",
+      "updatedAt": "2026-10-03T07:11:26.999Z"
+    },
+    {
+      "id": "demo-1",
+      "slug": "articulated-gecko",
+      "name": "Articulated Gecko",
+      "categoryId": "cat-1",
+      "price": 15,
+      "shortDescription": "Flexible, colourful and full of personality.",
+      "description": "A demo entry for our small-batch Melbourne catalogue. Choose your favourite colour and send an enquiry to check the details. The maker will confirm the final price, dimensions, materials and suitability before your order.",
+      "subcategory": "Animals",
+      "tags": [
+        "Creature"
+      ],
+      "type": "Creature",
+      "size": "Medium",
+      "age": "8+",
+      "material": "PLA",
+      "care": "Keep away from high temperatures, including very hot cars. Wipe gently with a damp cloth. Avoid rough handling and forcing moving joints.",
+      "safety": "Small parts and articulated joints. Not suitable for children under 3 years. Use gently; final age suitability must be confirmed.",
+      "makerNote": "Colours can vary between prints. We will confirm your colour choice and availability with you.",
+      "customisable": false,
+      "stock": "Made to Order",
+      "marketAvailable": true,
+      "featured": true,
+      "isNew": false,
+      "marketPick": false,
+      "published": true,
+      "archived": false,
+      "photos": [],
+      "colours": [
+        {
+          "name": "Purple",
+          "hex": "#a56aff"
+        },
+        {
+          "name": "Cyan",
+          "hex": "#42d4eb"
+        },
+        {
+          "name": "Lime",
+          "hex": "#cef96b"
+        }
+      ],
+      "video": "",
+      "occasions": [
+        "Gift"
+      ],
+      "related": [],
+      "createdAt": "2026-10-03T07:05:05.343Z",
+      "updatedAt": "2026-10-03T07:05:05.343Z"
+    },
+    {
+      "id": "demo-2",
+      "slug": "mini-articulated-dragon",
+      "name": "Mini Articulated Dragon",
+      "categoryId": "cat-1",
+      "price": 18,
+      "shortDescription": "A little fantasy. A whole lot of movement.",
+      "description": "A demo entry for our small-batch Melbourne catalogue. Choose your favourite colour and send an enquiry to check the details. The maker will confirm the final price, dimensions, materials and suitability before your order.",
+      "subcategory": "Dragons",
+      "tags": [
+        "Creature"
+      ],
+      "type": "Dragon",
+      "size": "Medium",
+      "age": "8+",
+      "material": "PLA",
+      "care": "Keep away from high temperatures, including very hot cars. Wipe gently with a damp cloth. Avoid rough handling and forcing moving joints.",
+      "safety": "Small parts and articulated joints. Not suitable for children under 3 years. Use gently; final age suitability must be confirmed.",
+      "makerNote": "Colours can vary between prints. We will confirm your colour choice and availability with you.",
+      "customisable": false,
+      "stock": "Made to Order",
+      "marketAvailable": true,
+      "featured": true,
+      "isNew": false,
+      "marketPick": false,
+      "published": true,
+      "archived": false,
+      "photos": [],
+      "colours": [
+        {
+          "name": "Purple",
+          "hex": "#a56aff"
+        },
+        {
+          "name": "Cyan",
+          "hex": "#42d4eb"
+        },
+        {
+          "name": "Lime",
+          "hex": "#cef96b"
+        }
+      ],
+      "video": "",
+      "occasions": [
+        "Gift"
+      ],
+      "related": [],
+      "createdAt": "2026-10-03T07:05:05.343Z",
+      "updatedAt": "2026-10-03T07:05:05.343Z"
+    },
+    {
+      "id": "demo-3",
+      "slug": "rainbow-flexi-snake",
+      "name": "Rainbow Flexi Snake",
+      "categoryId": "cat-1",
+      "price": 20,
+      "shortDescription": "Flexible, colourful and full of personality.",
+      "description": "A demo entry for our small-batch Melbourne catalogue. Choose your favourite colour and send an enquiry to check the details. The maker will confirm the final price, dimensions, materials and suitability before your order.",
+      "subcategory": "Animals",
+      "tags": [
+        "Creature",
+        "Gift"
+      ],
+      "type": "Creature",
+      "size": "Mini",
+      "age": "8+",
+      "material": "PLA",
+      "care": "Keep away from high temperatures, including very hot cars. Wipe gently with a damp cloth. Avoid rough handling and forcing moving joints.",
+      "safety": "Small parts and articulated joints. Not suitable for children under 3 years. Use gently; final age suitability must be confirmed.",
+      "makerNote": "Colours can vary between prints. We will confirm your colour choice and availability with you.",
+      "customisable": true,
+      "stock": "Made to Order",
+      "marketAvailable": true,
+      "featured": true,
+      "isNew": false,
+      "marketPick": false,
+      "published": true,
+      "archived": false,
+      "photos": [],
+      "colours": [
+        {
+          "name": "Purple",
+          "hex": "#a56aff"
+        },
+        {
+          "name": "Cyan",
+          "hex": "#42d4eb"
+        },
+        {
+          "name": "Lime",
+          "hex": "#cef96b"
+        }
+      ],
+      "video": "",
+      "occasions": [
+        "Gift"
+      ],
+      "related": [],
+      "createdAt": "2026-10-03T07:05:05.343Z",
+      "updatedAt": "2026-10-03T07:05:05.343Z"
+    },
+    {
+      "id": "demo-4",
+      "slug": "articulated-jellyfish",
+      "name": "Articulated Jellyfish",
+      "categoryId": "cat-1",
+      "price": 18,
+      "shortDescription": "Flexible, colourful and full of personality.",
+      "description": "A demo entry for our small-batch Melbourne catalogue. Choose your favourite colour and send an enquiry to check the details. The maker will confirm the final price, dimensions, materials and suitability before your order.",
+      "subcategory": "Animals",
+      "tags": [
+        "Creature"
+      ],
+      "type": "Creature",
+      "size": "Medium",
+      "age": "Teens",
+      "material": "PLA",
+      "care": "Keep away from high temperatures, including very hot cars. Wipe gently with a damp cloth. Avoid rough handling and forcing moving joints.",
+      "safety": "Small parts and articulated joints. Not suitable for children under 3 years. Use gently; final age suitability must be confirmed.",
+      "makerNote": "Colours can vary between prints. We will confirm your colour choice and availability with you.",
+      "customisable": false,
+      "stock": "Made to Order",
+      "marketAvailable": true,
+      "featured": true,
+      "isNew": false,
+      "marketPick": true,
+      "published": true,
+      "archived": false,
+      "photos": [],
+      "colours": [
+        {
+          "name": "Purple",
+          "hex": "#a56aff"
+        },
+        {
+          "name": "Cyan",
+          "hex": "#42d4eb"
+        },
+        {
+          "name": "Lime",
+          "hex": "#cef96b"
+        }
+      ],
+      "video": "",
+      "occasions": [
+        "Gift"
+      ],
+      "related": [],
+      "createdAt": "2026-10-03T07:05:05.343Z",
+      "updatedAt": "2026-10-03T07:05:05.343Z"
+    },
+    {
+      "id": "demo-5",
+      "slug": "articulated-octopus",
+      "name": "Articulated Octopus",
+      "categoryId": "cat-1",
+      "price": 22,
+      "shortDescription": "Flexible, colourful and full of personality.",
+      "description": "A demo entry for our small-batch Melbourne catalogue. Choose your favourite colour and send an enquiry to check the details. The maker will confirm the final price, dimensions, materials and suitability before your order.",
+      "subcategory": "Animals",
+      "tags": [
+        "Creature"
+      ],
+      "type": "Creature",
+      "size": "Medium",
+      "age": "8+",
+      "material": "PLA",
+      "care": "Keep away from high temperatures, including very hot cars. Wipe gently with a damp cloth. Avoid rough handling and forcing moving joints.",
+      "safety": "Small parts and articulated joints. Not suitable for children under 3 years. Use gently; final age suitability must be confirmed.",
+      "makerNote": "Colours can vary between prints. We will confirm your colour choice and availability with you.",
+      "customisable": false,
+      "stock": "Made to Order",
+      "marketAvailable": true,
+      "featured": true,
+      "isNew": false,
+      "marketPick": false,
+      "published": true,
+      "archived": false,
+      "photos": [],
+      "colours": [
+        {
+          "name": "Purple",
+          "hex": "#a56aff"
+        },
+        {
+          "name": "Cyan",
+          "hex": "#42d4eb"
+        },
+        {
+          "name": "Lime",
+          "hex": "#cef96b"
+        }
+      ],
+      "video": "",
+      "occasions": [
+        "Gift"
+      ],
+      "related": [],
+      "createdAt": "2026-10-03T07:05:05.343Z",
+      "updatedAt": "2026-10-03T07:05:05.343Z"
+    },
+    {
+      "id": "demo-6",
+      "slug": "dragon-egg-fidget",
+      "name": "Dragon Egg Fidget",
+      "categoryId": "cat-0",
+      "price": 15,
+      "shortDescription": "A little fantasy. A whole lot of movement.",
+      "description": "A demo entry for our small-batch Melbourne catalogue. Choose your favourite colour and send an enquiry to check the details. The maker will confirm the final price, dimensions, materials and suitability before your order.",
+      "subcategory": "Dragons",
+      "tags": [
+        "Fidget",
+        "Gift"
+      ],
+      "type": "Dragon",
+      "size": "Mini",
+      "age": "8+",
+      "material": "PLA",
+      "care": "Keep away from high temperatures, including very hot cars. Wipe gently with a damp cloth. Avoid rough handling and forcing moving joints.",
+      "safety": "Age guidance is provisional for this demo. Small moving parts may detach; suitability must be confirmed by the maker.",
+      "makerNote": "Colours can vary between prints. We will confirm your colour choice and availability with you.",
+      "customisable": true,
+      "stock": "Made to Order",
+      "marketAvailable": true,
+      "featured": false,
+      "isNew": true,
+      "marketPick": false,
+      "published": true,
+      "archived": false,
+      "photos": [],
+      "colours": [
+        {
+          "name": "Purple",
+          "hex": "#a56aff"
+        },
+        {
+          "name": "Cyan",
+          "hex": "#42d4eb"
+        },
+        {
+          "name": "Lime",
+          "hex": "#cef96b"
+        }
+      ],
+      "video": "",
+      "occasions": [
+        "Gift"
+      ],
+      "related": [],
+      "createdAt": "2026-10-03T07:05:05.343Z",
+      "updatedAt": "2026-10-03T07:05:05.343Z"
+    },
+    {
+      "id": "demo-7",
+      "slug": "twisty-dumpling-fidget",
+      "name": "Twisty Dumpling Fidget",
+      "categoryId": "cat-0",
+      "price": 10,
+      "shortDescription": "A satisfying little break for busy hands.",
+      "description": "A demo entry for our small-batch Melbourne catalogue. Choose your favourite colour and send an enquiry to check the details. The maker will confirm the final price, dimensions, materials and suitability before your order.",
+      "subcategory": "",
+      "tags": [
+        "Fidget"
+      ],
+      "type": "Fidget",
+      "size": "Medium",
+      "age": "8+",
+      "material": "PLA",
+      "care": "Keep away from high temperatures, including very hot cars. Wipe gently with a damp cloth. Avoid rough handling and forcing moving joints.",
+      "safety": "Age guidance is provisional for this demo. Small moving parts may detach; suitability must be confirmed by the maker.",
+      "makerNote": "Colours can vary between prints. We will confirm your colour choice and availability with you.",
+      "customisable": false,
+      "stock": "Made to Order",
+      "marketAvailable": true,
+      "featured": false,
+      "isNew": true,
+      "marketPick": false,
+      "published": true,
+      "archived": false,
+      "photos": [],
+      "colours": [
+        {
+          "name": "Purple",
+          "hex": "#a56aff"
+        },
+        {
+          "name": "Cyan",
+          "hex": "#42d4eb"
+        },
+        {
+          "name": "Lime",
+          "hex": "#cef96b"
+        }
+      ],
+      "video": "",
+      "occasions": [
+        "Gift"
+      ],
+      "related": [],
+      "createdAt": "2026-10-03T07:05:05.343Z",
+      "updatedAt": "2026-10-03T07:05:05.343Z"
+    },
+    {
+      "id": "demo-8",
+      "slug": "spiral-cone-fidget",
+      "name": "Spiral Cone Fidget",
+      "categoryId": "cat-0",
+      "price": 12,
+      "shortDescription": "A satisfying little break for busy hands.",
+      "description": "A demo entry for our small-batch Melbourne catalogue. Choose your favourite colour and send an enquiry to check the details. The maker will confirm the final price, dimensions, materials and suitability before your order.",
+      "subcategory": "",
+      "tags": [
+        "Fidget"
+      ],
+      "type": "Fidget",
+      "size": "Medium",
+      "age": "Teens",
+      "material": "PLA",
+      "care": "Keep away from high temperatures, including very hot cars. Wipe gently with a damp cloth. Avoid rough handling and forcing moving joints.",
+      "safety": "Age guidance is provisional for this demo. Small moving parts may detach; suitability must be confirmed by the maker.",
+      "makerNote": "Colours can vary between prints. We will confirm your colour choice and availability with you.",
+      "customisable": false,
+      "stock": "Made to Order",
+      "marketAvailable": true,
+      "featured": false,
+      "isNew": true,
+      "marketPick": true,
+      "published": true,
+      "archived": false,
+      "photos": [],
+      "colours": [
+        {
+          "name": "Purple",
+          "hex": "#a56aff"
+        },
+        {
+          "name": "Cyan",
+          "hex": "#42d4eb"
+        },
+        {
+          "name": "Lime",
+          "hex": "#cef96b"
+        }
+      ],
+      "video": "",
+      "occasions": [
+        "Gift"
+      ],
+      "related": [],
+      "createdAt": "2026-10-03T07:05:05.344Z",
+      "updatedAt": "2026-10-03T07:05:05.344Z"
+    },
+    {
+      "id": "demo-9",
+      "slug": "spiky-twisty-sphere",
+      "name": "Spiky Twisty Sphere",
+      "categoryId": "cat-0",
+      "price": 15,
+      "shortDescription": "A satisfying little break for busy hands.",
+      "description": "A demo entry for our small-batch Melbourne catalogue. Choose your favourite colour and send an enquiry to check the details. The maker will confirm the final price, dimensions, materials and suitability before your order.",
+      "subcategory": "",
+      "tags": [
+        "Fidget",
+        "Gift"
+      ],
+      "type": "Fidget",
+      "size": "Mini",
+      "age": "8+",
+      "material": "PLA",
+      "care": "Keep away from high temperatures, including very hot cars. Wipe gently with a damp cloth. Avoid rough handling and forcing moving joints.",
+      "safety": "Age guidance is provisional for this demo. Small moving parts may detach; suitability must be confirmed by the maker.",
+      "makerNote": "Colours can vary between prints. We will confirm your colour choice and availability with you.",
+      "customisable": true,
+      "stock": "Made to Order",
+      "marketAvailable": true,
+      "featured": false,
+      "isNew": true,
+      "marketPick": false,
+      "published": true,
+      "archived": false,
+      "photos": [],
+      "colours": [
+        {
+          "name": "Purple",
+          "hex": "#a56aff"
+        },
+        {
+          "name": "Cyan",
+          "hex": "#42d4eb"
+        },
+        {
+          "name": "Lime",
+          "hex": "#cef96b"
+        }
+      ],
+      "video": "",
+      "occasions": [
+        "Gift"
+      ],
+      "related": [],
+      "createdAt": "2026-10-03T07:05:05.344Z",
+      "updatedAt": "2026-10-03T07:05:05.344Z"
+    },
+    {
+      "id": "demo-10",
+      "slug": "infinity-cube",
+      "name": "Infinity Cube",
+      "categoryId": "cat-0",
+      "price": 14,
+      "shortDescription": "A satisfying little break for busy hands.",
+      "description": "A demo entry for our small-batch Melbourne catalogue. Choose your favourite colour and send an enquiry to check the details. The maker will confirm the final price, dimensions, materials and suitability before your order.",
+      "subcategory": "",
+      "tags": [
+        "Fidget"
+      ],
+      "type": "Fidget",
+      "size": "Medium",
+      "age": "8+",
+      "material": "PLA",
+      "care": "Keep away from high temperatures, including very hot cars. Wipe gently with a damp cloth. Avoid rough handling and forcing moving joints.",
+      "safety": "Age guidance is provisional for this demo. Small moving parts may detach; suitability must be confirmed by the maker.",
+      "makerNote": "Colours can vary between prints. We will confirm your colour choice and availability with you.",
+      "customisable": false,
+      "stock": "Made to Order",
+      "marketAvailable": true,
+      "featured": false,
+      "isNew": false,
+      "marketPick": false,
+      "published": true,
+      "archived": false,
+      "photos": [],
+      "colours": [
+        {
+          "name": "Purple",
+          "hex": "#a56aff"
+        },
+        {
+          "name": "Cyan",
+          "hex": "#42d4eb"
+        },
+        {
+          "name": "Lime",
+          "hex": "#cef96b"
+        }
+      ],
+      "video": "",
+      "occasions": [
+        "Gift"
+      ],
+      "related": [],
+      "createdAt": "2026-10-03T07:05:05.344Z",
+      "updatedAt": "2026-10-03T07:05:05.344Z"
+    },
+    {
+      "id": "demo-11",
+      "slug": "gravity-flip-fidget",
+      "name": "Gravity Flip Fidget",
+      "categoryId": "cat-0",
+      "price": 12,
+      "shortDescription": "A satisfying little break for busy hands.",
+      "description": "A demo entry for our small-batch Melbourne catalogue. Choose your favourite colour and send an enquiry to check the details. The maker will confirm the final price, dimensions, materials and suitability before your order.",
+      "subcategory": "",
+      "tags": [
+        "Fidget"
+      ],
+      "type": "Fidget",
+      "size": "Medium",
+      "age": "8+",
+      "material": "PLA",
+      "care": "Keep away from high temperatures, including very hot cars. Wipe gently with a damp cloth. Avoid rough handling and forcing moving joints.",
+      "safety": "Age guidance is provisional for this demo. Small moving parts may detach; suitability must be confirmed by the maker.",
+      "makerNote": "Colours can vary between prints. We will confirm your colour choice and availability with you.",
+      "customisable": false,
+      "stock": "Made to Order",
+      "marketAvailable": true,
+      "featured": false,
+      "isNew": false,
+      "marketPick": false,
+      "published": true,
+      "archived": false,
+      "photos": [],
+      "colours": [
+        {
+          "name": "Purple",
+          "hex": "#a56aff"
+        },
+        {
+          "name": "Cyan",
+          "hex": "#42d4eb"
+        },
+        {
+          "name": "Lime",
+          "hex": "#cef96b"
+        }
+      ],
+      "video": "",
+      "occasions": [
+        "Gift"
+      ],
+      "related": [],
+      "createdAt": "2026-10-03T07:05:05.344Z",
+      "updatedAt": "2026-10-03T07:05:05.344Z"
+    },
+    {
+      "id": "demo-12",
+      "slug": "clicker-fidget",
+      "name": "Clicker Fidget",
+      "categoryId": "cat-0",
+      "price": 8,
+      "shortDescription": "A satisfying little break for busy hands.",
+      "description": "A demo entry for our small-batch Melbourne catalogue. Choose your favourite colour and send an enquiry to check the details. The maker will confirm the final price, dimensions, materials and suitability before your order.",
+      "subcategory": "",
+      "tags": [
+        "Fidget",
+        "Gift"
+      ],
+      "type": "Fidget",
+      "size": "Mini",
+      "age": "Teens",
+      "material": "PLA",
+      "care": "Keep away from high temperatures, including very hot cars. Wipe gently with a damp cloth. Avoid rough handling and forcing moving joints.",
+      "safety": "Age guidance is provisional for this demo. Small moving parts may detach; suitability must be confirmed by the maker.",
+      "makerNote": "Colours can vary between prints. We will confirm your colour choice and availability with you.",
+      "customisable": true,
+      "stock": "Made to Order",
+      "marketAvailable": true,
+      "featured": false,
+      "isNew": false,
+      "marketPick": true,
+      "published": true,
+      "archived": false,
+      "photos": [],
+      "colours": [
+        {
+          "name": "Purple",
+          "hex": "#a56aff"
+        },
+        {
+          "name": "Cyan",
+          "hex": "#42d4eb"
+        },
+        {
+          "name": "Lime",
+          "hex": "#cef96b"
+        }
+      ],
+      "video": "",
+      "occasions": [
+        "Gift"
+      ],
+      "related": [],
+      "createdAt": "2026-10-03T07:05:05.344Z",
+      "updatedAt": "2026-10-03T07:05:05.344Z"
+    },
+    {
+      "id": "demo-13",
+      "slug": "mini-creature-keyring",
+      "name": "Mini Creature Keyring",
+      "categoryId": "cat-2",
+      "price": 6,
+      "shortDescription": "A small print with a big personality.",
+      "description": "A demo entry for our small-batch Melbourne catalogue. Choose your favourite colour and send an enquiry to check the details. The maker will confirm the final price, dimensions, materials and suitability before your order.",
+      "subcategory": "",
+      "tags": [
+        "Collectible"
+      ],
+      "type": "Keyring",
+      "size": "Medium",
+      "age": "8+",
+      "material": "PLA",
+      "care": "Keep away from high temperatures, including very hot cars. Wipe gently with a damp cloth. Avoid rough handling and forcing moving joints.",
+      "safety": "This demo item is intended for older children or display. Ask the maker to confirm product-specific safety guidance.",
+      "makerNote": "Colours can vary between prints. We will confirm your colour choice and availability with you.",
+      "customisable": false,
+      "stock": "Made to Order",
+      "marketAvailable": true,
+      "featured": false,
+      "isNew": false,
+      "marketPick": false,
+      "published": true,
+      "archived": false,
+      "photos": [],
+      "colours": [
+        {
+          "name": "Purple",
+          "hex": "#a56aff"
+        },
+        {
+          "name": "Cyan",
+          "hex": "#42d4eb"
+        },
+        {
+          "name": "Lime",
+          "hex": "#cef96b"
+        }
+      ],
+      "video": "",
+      "occasions": [
+        "Gift"
+      ],
+      "related": [],
+      "createdAt": "2026-10-03T07:05:05.344Z",
+      "updatedAt": "2026-10-03T07:05:05.344Z"
+    },
+    {
+      "id": "demo-14",
+      "slug": "personalised-name-keyring",
+      "name": "Personalised Name Keyring",
+      "categoryId": "cat-2",
+      "price": 10,
+      "shortDescription": "A small print with a big personality.",
+      "description": "A demo entry for our small-batch Melbourne catalogue. Choose your favourite colour and send an enquiry to check the details. The maker will confirm the final price, dimensions, materials and suitability before your order.",
+      "subcategory": "",
+      "tags": [
+        "Collectible"
+      ],
+      "type": "Keyring",
+      "size": "Medium",
+      "age": "8+",
+      "material": "PLA",
+      "care": "Keep away from high temperatures, including very hot cars. Wipe gently with a damp cloth. Avoid rough handling and forcing moving joints.",
+      "safety": "This demo item is intended for older children or display. Ask the maker to confirm product-specific safety guidance.",
+      "makerNote": "Colours can vary between prints. We will confirm your colour choice and availability with you.",
+      "customisable": true,
+      "stock": "Made to Order",
+      "marketAvailable": true,
+      "featured": false,
+      "isNew": false,
+      "marketPick": false,
+      "published": true,
+      "archived": false,
+      "photos": [],
+      "colours": [
+        {
+          "name": "Purple",
+          "hex": "#a56aff"
+        },
+        {
+          "name": "Cyan",
+          "hex": "#42d4eb"
+        },
+        {
+          "name": "Lime",
+          "hex": "#cef96b"
+        }
+      ],
+      "video": "",
+      "occasions": [
+        "Gift",
+        "Party favour"
+      ],
+      "related": [],
+      "createdAt": "2026-10-03T07:05:05.344Z",
+      "updatedAt": "2026-10-03T07:05:05.344Z"
+    },
+    {
+      "id": "demo-15",
+      "slug": "mystery-pet-box",
+      "name": "Mystery Pet Box",
+      "categoryId": "cat-3",
+      "price": 15,
+      "shortDescription": "A small print with a big personality.",
+      "description": "A demo entry for our small-batch Melbourne catalogue. Choose your favourite colour and send an enquiry to check the details. The maker will confirm the final price, dimensions, materials and suitability before your order.",
+      "subcategory": "",
+      "tags": [
+        "Collectible",
+        "Gift"
+      ],
+      "type": "Desk Toy",
+      "size": "Mini",
+      "age": "8+",
+      "material": "PLA",
+      "care": "Keep away from high temperatures, including very hot cars. Wipe gently with a damp cloth. Avoid rough handling and forcing moving joints.",
+      "safety": "This demo item is intended for older children or display. Ask the maker to confirm product-specific safety guidance.",
+      "makerNote": "Colours can vary between prints. We will confirm your colour choice and availability with you.",
+      "customisable": true,
+      "stock": "Made to Order",
+      "marketAvailable": true,
+      "featured": false,
+      "isNew": false,
+      "marketPick": false,
+      "published": true,
+      "archived": false,
+      "photos": [],
+      "colours": [
+        {
+          "name": "Purple",
+          "hex": "#a56aff"
+        },
+        {
+          "name": "Cyan",
+          "hex": "#42d4eb"
+        },
+        {
+          "name": "Lime",
+          "hex": "#cef96b"
+        }
+      ],
+      "video": "",
+      "occasions": [
+        "Gift"
+      ],
+      "related": [],
+      "createdAt": "2026-10-03T07:05:05.344Z",
+      "updatedAt": "2026-10-03T07:05:05.344Z"
+    },
+    {
+      "id": "demo-16",
+      "slug": "mystery-dragon-egg",
+      "name": "Mystery Dragon Egg",
+      "categoryId": "cat-3",
+      "price": 22,
+      "shortDescription": "A little fantasy. A whole lot of movement.",
+      "description": "A demo entry for our small-batch Melbourne catalogue. Choose your favourite colour and send an enquiry to check the details. The maker will confirm the final price, dimensions, materials and suitability before your order.",
+      "subcategory": "Dragons",
+      "tags": [
+        "Collectible"
+      ],
+      "type": "Dragon",
+      "size": "Medium",
+      "age": "Teens",
+      "material": "PLA",
+      "care": "Keep away from high temperatures, including very hot cars. Wipe gently with a damp cloth. Avoid rough handling and forcing moving joints.",
+      "safety": "This demo item is intended for older children or display. Ask the maker to confirm product-specific safety guidance.",
+      "makerNote": "Colours can vary between prints. We will confirm your colour choice and availability with you.",
+      "customisable": false,
+      "stock": "Made to Order",
+      "marketAvailable": true,
+      "featured": false,
+      "isNew": false,
+      "marketPick": true,
+      "published": true,
+      "archived": false,
+      "photos": [],
+      "colours": [
+        {
+          "name": "Purple",
+          "hex": "#a56aff"
+        },
+        {
+          "name": "Cyan",
+          "hex": "#42d4eb"
+        },
+        {
+          "name": "Lime",
+          "hex": "#cef96b"
+        }
+      ],
+      "video": "",
+      "occasions": [
+        "Gift"
+      ],
+      "related": [],
+      "createdAt": "2026-10-03T07:05:05.344Z",
+      "updatedAt": "2026-10-03T07:05:05.344Z"
+    },
+    {
+      "id": "demo-17",
+      "slug": "mini-dino-skeleton",
+      "name": "Mini Dino Skeleton",
+      "categoryId": "cat-1",
+      "price": 18,
+      "shortDescription": "Flexible, colourful and full of personality.",
+      "description": "A demo entry for our small-batch Melbourne catalogue. Choose your favourite colour and send an enquiry to check the details. The maker will confirm the final price, dimensions, materials and suitability before your order.",
+      "subcategory": "Animals",
+      "tags": [
+        "Creature"
+      ],
+      "type": "Creature",
+      "size": "Medium",
+      "age": "8+",
+      "material": "PLA",
+      "care": "Keep away from high temperatures, including very hot cars. Wipe gently with a damp cloth. Avoid rough handling and forcing moving joints.",
+      "safety": "Small parts and articulated joints. Not suitable for children under 3 years. Use gently; final age suitability must be confirmed.",
+      "makerNote": "Colours can vary between prints. We will confirm your colour choice and availability with you.",
+      "customisable": false,
+      "stock": "Made to Order",
+      "marketAvailable": true,
+      "featured": false,
+      "isNew": false,
+      "marketPick": false,
+      "published": true,
+      "archived": false,
+      "photos": [],
+      "colours": [
+        {
+          "name": "Purple",
+          "hex": "#a56aff"
+        },
+        {
+          "name": "Cyan",
+          "hex": "#42d4eb"
+        },
+        {
+          "name": "Lime",
+          "hex": "#cef96b"
+        }
+      ],
+      "video": "",
+      "occasions": [
+        "Gift"
+      ],
+      "related": [],
+      "createdAt": "2026-10-03T07:05:05.344Z",
+      "updatedAt": "2026-10-03T07:05:05.344Z"
+    },
+    {
+      "id": "demo-18",
+      "slug": "desk-pet",
+      "name": "Desk Pet",
+      "categoryId": "cat-4",
+      "price": 12,
+      "shortDescription": "A small print with a big personality.",
+      "description": "A demo entry for our small-batch Melbourne catalogue. Choose your favourite colour and send an enquiry to check the details. The maker will confirm the final price, dimensions, materials and suitability before your order.",
+      "subcategory": "",
+      "tags": [
+        "Collectible",
+        "Gift"
+      ],
+      "type": "Desk Toy",
+      "size": "Mini",
+      "age": "8+",
+      "material": "PLA",
+      "care": "Keep away from high temperatures, including very hot cars. Wipe gently with a damp cloth. Avoid rough handling and forcing moving joints.",
+      "safety": "This demo item is intended for older children or display. Ask the maker to confirm product-specific safety guidance.",
+      "makerNote": "Colours can vary between prints. We will confirm your colour choice and availability with you.",
+      "customisable": true,
+      "stock": "Made to Order",
+      "marketAvailable": true,
+      "featured": false,
+      "isNew": false,
+      "marketPick": false,
+      "published": true,
+      "archived": false,
+      "photos": [],
+      "colours": [
+        {
+          "name": "Purple",
+          "hex": "#a56aff"
+        },
+        {
+          "name": "Cyan",
+          "hex": "#42d4eb"
+        },
+        {
+          "name": "Lime",
+          "hex": "#cef96b"
+        }
+      ],
+      "video": "",
+      "occasions": [
+        "Gift"
+      ],
+      "related": [],
+      "createdAt": "2026-10-03T07:05:05.344Z",
+      "updatedAt": "2026-10-03T07:05:05.344Z"
+    },
+    {
+      "id": "demo-19",
+      "slug": "mechanical-gear-toy",
+      "name": "Mechanical Gear Toy",
+      "categoryId": "cat-4",
+      "price": 25,
+      "shortDescription": "A small print with a big personality.",
+      "description": "A demo entry for our small-batch Melbourne catalogue. Choose your favourite colour and send an enquiry to check the details. The maker will confirm the final price, dimensions, materials and suitability before your order.",
+      "subcategory": "",
+      "tags": [
+        "Collectible"
+      ],
+      "type": "Desk Toy",
+      "size": "Medium",
+      "age": "8+",
+      "material": "PLA",
+      "care": "Keep away from high temperatures, including very hot cars. Wipe gently with a damp cloth. Avoid rough handling and forcing moving joints.",
+      "safety": "This demo item is intended for older children or display. Ask the maker to confirm product-specific safety guidance.",
+      "makerNote": "Colours can vary between prints. We will confirm your colour choice and availability with you.",
+      "customisable": false,
+      "stock": "Made to Order",
+      "marketAvailable": true,
+      "featured": false,
+      "isNew": false,
+      "marketPick": false,
+      "published": true,
+      "archived": false,
+      "photos": [],
+      "colours": [
+        {
+          "name": "Purple",
+          "hex": "#a56aff"
+        },
+        {
+          "name": "Cyan",
+          "hex": "#42d4eb"
+        },
+        {
+          "name": "Lime",
+          "hex": "#cef96b"
+        }
+      ],
+      "video": "",
+      "occasions": [
+        "Gift"
+      ],
+      "related": [],
+      "createdAt": "2026-10-03T07:05:05.344Z",
+      "updatedAt": "2026-10-03T07:05:05.344Z"
+    },
+    {
+      "id": "demo-20",
+      "slug": "puzzle-toy",
+      "name": "Puzzle Toy",
+      "categoryId": "cat-4",
+      "price": 20,
+      "shortDescription": "A small print with a big personality.",
+      "description": "A demo entry for our small-batch Melbourne catalogue. Choose your favourite colour and send an enquiry to check the details. The maker will confirm the final price, dimensions, materials and suitability before your order.",
+      "subcategory": "",
+      "tags": [
+        "Collectible"
+      ],
+      "type": "Desk Toy",
+      "size": "Medium",
+      "age": "Teens",
+      "material": "PLA",
+      "care": "Keep away from high temperatures, including very hot cars. Wipe gently with a damp cloth. Avoid rough handling and forcing moving joints.",
+      "safety": "This demo item is intended for older children or display. Ask the maker to confirm product-specific safety guidance.",
+      "makerNote": "Colours can vary between prints. We will confirm your colour choice and availability with you.",
+      "customisable": false,
+      "stock": "Made to Order",
+      "marketAvailable": true,
+      "featured": false,
+      "isNew": false,
+      "marketPick": true,
+      "published": true,
+      "archived": false,
+      "photos": [],
+      "colours": [
+        {
+          "name": "Purple",
+          "hex": "#a56aff"
+        },
+        {
+          "name": "Cyan",
+          "hex": "#42d4eb"
+        },
+        {
+          "name": "Lime",
+          "hex": "#cef96b"
+        }
+      ],
+      "video": "",
+      "occasions": [
+        "Gift"
+      ],
+      "related": [],
+      "createdAt": "2026-10-03T07:05:05.344Z",
+      "updatedAt": "2026-10-03T07:05:05.344Z"
+    },
+    {
+      "id": "demo-21",
+      "slug": "sensory-fidget-pack",
+      "name": "Sensory Fidget Pack",
+      "categoryId": "cat-7",
+      "price": 30,
+      "shortDescription": "A small print with a big personality.",
+      "description": "A demo entry for our small-batch Melbourne catalogue. Choose your favourite colour and send an enquiry to check the details. The maker will confirm the final price, dimensions, materials and suitability before your order.",
+      "subcategory": "",
+      "tags": [
+        "Collectible",
+        "Gift"
+      ],
+      "type": "Gift",
+      "size": "Mini",
+      "age": "8+",
+      "material": "PLA",
+      "care": "Keep away from high temperatures, including very hot cars. Wipe gently with a damp cloth. Avoid rough handling and forcing moving joints.",
+      "safety": "This demo item is intended for older children or display. Ask the maker to confirm product-specific safety guidance.",
+      "makerNote": "Colours can vary between prints. We will confirm your colour choice and availability with you.",
+      "customisable": true,
+      "stock": "Made to Order",
+      "marketAvailable": true,
+      "featured": false,
+      "isNew": false,
+      "marketPick": false,
+      "published": true,
+      "archived": false,
+      "photos": [],
+      "colours": [
+        {
+          "name": "Purple",
+          "hex": "#a56aff"
+        },
+        {
+          "name": "Cyan",
+          "hex": "#42d4eb"
+        },
+        {
+          "name": "Lime",
+          "hex": "#cef96b"
+        }
+      ],
+      "video": "",
+      "occasions": [
+        "Gift"
+      ],
+      "related": [],
+      "createdAt": "2026-10-03T07:05:05.344Z",
+      "updatedAt": "2026-10-03T07:05:05.344Z"
+    },
+    {
+      "id": "demo-22",
+      "slug": "original-anime-style-mascot",
+      "name": "Original Anime-Style Mascot",
+      "categoryId": "cat-5",
+      "price": 25,
+      "shortDescription": "A small print with a big personality.",
+      "description": "A demo entry for our small-batch Melbourne catalogue. Choose your favourite colour and send an enquiry to check the details. The maker will confirm the final price, dimensions, materials and suitability before your order.",
+      "subcategory": "",
+      "tags": [
+        "Collectible"
+      ],
+      "type": "Desk Toy",
+      "size": "Medium",
+      "age": "8+",
+      "material": "PLA",
+      "care": "Keep away from high temperatures, including very hot cars. Wipe gently with a damp cloth. Avoid rough handling and forcing moving joints.",
+      "safety": "This demo item is intended for older children or display. Ask the maker to confirm product-specific safety guidance.",
+      "makerNote": "Colours can vary between prints. We will confirm your colour choice and availability with you.",
+      "customisable": false,
+      "stock": "Made to Order",
+      "marketAvailable": false,
+      "featured": false,
+      "isNew": false,
+      "marketPick": false,
+      "published": true,
+      "archived": false,
+      "photos": [],
+      "colours": [
+        {
+          "name": "Purple",
+          "hex": "#a56aff"
+        },
+        {
+          "name": "Cyan",
+          "hex": "#42d4eb"
+        },
+        {
+          "name": "Lime",
+          "hex": "#cef96b"
+        }
+      ],
+      "video": "",
+      "occasions": [
+        "Gift"
+      ],
+      "related": [],
+      "createdAt": "2026-10-03T07:05:05.344Z",
+      "updatedAt": "2026-10-03T07:05:05.344Z"
+    },
+    {
+      "id": "demo-23",
+      "slug": "wizard-crystal-desk-toy",
+      "name": "Wizard Crystal Desk Toy",
+      "categoryId": "cat-5",
+      "price": 22,
+      "shortDescription": "A small print with a big personality.",
+      "description": "A demo entry for our small-batch Melbourne catalogue. Choose your favourite colour and send an enquiry to check the details. The maker will confirm the final price, dimensions, materials and suitability before your order.",
+      "subcategory": "",
+      "tags": [
+        "Collectible"
+      ],
+      "type": "Desk Toy",
+      "size": "Medium",
+      "age": "8+",
+      "material": "PLA",
+      "care": "Keep away from high temperatures, including very hot cars. Wipe gently with a damp cloth. Avoid rough handling and forcing moving joints.",
+      "safety": "This demo item is intended for older children or display. Ask the maker to confirm product-specific safety guidance.",
+      "makerNote": "Colours can vary between prints. We will confirm your colour choice and availability with you.",
+      "customisable": false,
+      "stock": "Made to Order",
+      "marketAvailable": false,
+      "featured": false,
+      "isNew": false,
+      "marketPick": false,
+      "published": true,
+      "archived": false,
+      "photos": [],
+      "colours": [
+        {
+          "name": "Purple",
+          "hex": "#a56aff"
+        },
+        {
+          "name": "Cyan",
+          "hex": "#42d4eb"
+        },
+        {
+          "name": "Lime",
+          "hex": "#cef96b"
+        }
+      ],
+      "video": "",
+      "occasions": [
+        "Gift"
+      ],
+      "related": [],
+      "createdAt": "2026-10-03T07:05:05.344Z",
+      "updatedAt": "2026-10-03T07:05:05.344Z"
+    },
+    {
+      "id": "demo-24",
+      "slug": "build-your-own-toy-bundle",
+      "name": "Build Your Own Toy Bundle",
+      "categoryId": "cat-7",
+      "price": 35,
+      "shortDescription": "A small print with a big personality.",
+      "description": "A demo entry for our small-batch Melbourne catalogue. Choose your favourite colour and send an enquiry to check the details. The maker will confirm the final price, dimensions, materials and suitability before your order.",
+      "subcategory": "",
+      "tags": [
+        "Collectible",
+        "Gift"
+      ],
+      "type": "Gift",
+      "size": "Mini",
+      "age": "Teens",
+      "material": "PLA",
+      "care": "Keep away from high temperatures, including very hot cars. Wipe gently with a damp cloth. Avoid rough handling and forcing moving joints.",
+      "safety": "This demo item is intended for older children or display. Ask the maker to confirm product-specific safety guidance.",
+      "makerNote": "Colours can vary between prints. We will confirm your colour choice and availability with you.",
+      "customisable": true,
+      "stock": "Made to Order",
+      "marketAvailable": false,
+      "featured": false,
+      "isNew": false,
+      "marketPick": true,
+      "published": true,
+      "archived": false,
+      "photos": [],
+      "colours": [
+        {
+          "name": "Purple",
+          "hex": "#a56aff"
+        },
+        {
+          "name": "Cyan",
+          "hex": "#42d4eb"
+        },
+        {
+          "name": "Lime",
+          "hex": "#cef96b"
+        }
+      ],
+      "video": "",
+      "occasions": [
+        "Gift"
+      ],
+      "related": [],
+      "createdAt": "2026-10-03T07:05:05.344Z",
+      "updatedAt": "2026-10-03T07:05:05.344Z"
+    },
+    {
+      "id": "demo-25",
+      "slug": "large-display-dragon",
+      "name": "Large Display Dragon",
+      "categoryId": "cat-1",
+      "price": 65,
+      "shortDescription": "A little fantasy. A whole lot of movement.",
+      "description": "A demo entry for our small-batch Melbourne catalogue. Choose your favourite colour and send an enquiry to check the details. The maker will confirm the final price, dimensions, materials and suitability before your order.",
+      "subcategory": "Dragons",
+      "tags": [
+        "Creature"
+      ],
+      "type": "Dragon",
+      "size": "Large",
+      "age": "Adults",
+      "material": "PLA",
+      "care": "Keep away from high temperatures, including very hot cars. Wipe gently with a damp cloth. Avoid rough handling and forcing moving joints.",
+      "safety": "Small parts and articulated joints. Not suitable for children under 3 years. Use gently; final age suitability must be confirmed.",
+      "makerNote": "Colours can vary between prints. We will confirm your colour choice and availability with you.",
+      "customisable": false,
+      "stock": "Made to Order",
+      "marketAvailable": false,
+      "featured": false,
+      "isNew": false,
+      "marketPick": false,
+      "published": true,
+      "archived": false,
+      "photos": [],
+      "colours": [
+        {
+          "name": "Purple",
+          "hex": "#a56aff"
+        },
+        {
+          "name": "Cyan",
+          "hex": "#42d4eb"
+        },
+        {
+          "name": "Lime",
+          "hex": "#cef96b"
+        }
+      ],
+      "video": "",
+      "occasions": [
+        "Gift"
+      ],
+      "related": [],
+      "createdAt": "2026-10-03T07:05:05.344Z",
+      "updatedAt": "2026-10-03T07:05:05.344Z"
+    }
+  ],
+  "categories": [
+    {
+      "id": "cat-0",
+      "name": "Fidgets & Sensory",
+      "image": "",
+      "icon": "Orbit",
+      "position": 0,
+      "hidden": false
+    },
+    {
+      "id": "cat-1",
+      "name": "Articulated Creatures",
+      "image": "",
+      "icon": "Footprints",
+      "position": 1,
+      "hidden": false
+    },
+    {
+      "id": "cat-2",
+      "name": "Keyrings & Charms",
+      "image": "",
+      "icon": "KeyRound",
+      "position": 2,
+      "hidden": false
+    },
+    {
+      "id": "cat-3",
+      "name": "Collectibles & Mystery",
+      "image": "",
+      "icon": "Package",
+      "position": 3,
+      "hidden": false
+    },
+    {
+      "id": "cat-4",
+      "name": "Desk Toys",
+      "image": "",
+      "icon": "Monitor",
+      "position": 4,
+      "hidden": false
+    },
+    {
+      "id": "cat-5",
+      "name": "Anime-Style & Fantasy",
+      "image": "",
+      "icon": "Sparkles",
+      "position": 5,
+      "hidden": false
+    },
+    {
+      "id": "cat-6",
+      "name": "Custom Products",
+      "image": "",
+      "icon": "Palette",
+      "position": 6,
+      "hidden": false
+    },
+    {
+      "id": "cat-7",
+      "name": "Gift Bundles",
+      "image": "",
+      "icon": "Gift",
+      "position": 7,
+      "hidden": false
+    }
+  ],
+  "markets": [
+    {
+      "id": "1bb02eb4-4ce3-4978-87a3-2d61a432d038",
+      "name": "QA future market",
+      "date": "2099-10-05",
+      "status": "Cancelled",
+      "start": "10:00",
+      "end": "16:00",
+      "venue": "QA test venue",
+      "address": "QA test address",
+      "stall": "TEST-7",
+      "notes": "Test only",
+      "photos": [],
+      "products": [
+        "demo-0"
+      ],
+      "deals": [
+        "QA test offer"
+      ]
+    }
+  ],
+  "settings": {
+    "businessName": "The Toy Masters",
+    "tagline": "3D-Printed Toys. Made to Move.",
+    "email": "",
+    "instagram": "",
+    "tiktok": "",
+    "youtube": "",
+    "location": "Melbourne, Australia",
+    "announcement": "Small-batch prints. Big-time fun.",
+    "marketBanner": "Meet the makers. Try the toys.",
+    "about": "The Toy Masters is a Melbourne-based small 3D-printing toy business. We make playful fidgets, articulated creatures and personalised gifts, and bring selected prints to makers markets.",
+    "maker": "Meet the maker — more about the person behind the prints coming soon.",
+    "reviews": "Customer photos & reviews coming soon",
+    "transport": "Transport and parking information coming soon. Check the venue before travelling."
+  }
+}
